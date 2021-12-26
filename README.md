@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Python and Data Science, Computer Vision
 - 🌱 I’m currently learning ... Python and Data Science
 - 💞️ I’m looking to collaborate on ... Computer Vision
-- 📫 How to reach me ... DM me here
+- 📫 How to reach me ... DM me here or email me at wanderinghominid(at)gmail.com
 
 <!---
 wanderinghominid/wanderinghominid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
